@@ -1,24 +1,26 @@
-# Try to Escape
+# Tank Battle Game
 
-Embark on an escape adventure with "Try to Escape" — a challenging game where your wit is your best tool! 🚪🕹️
+Engage in epic tank battles with the Tank Battle Game! 🎮🚀
 
 ## Play the Game
 
-[Play Now](https://aryan0-1maurya.github.io/Try-to-escape/) 🕹️
+[Play Now](https://aryan0-1maurya.github.io/tank-battle-game/) 🕹️
 
 ## About the Game
 
-📜 "Try to Escape" is an immersive escape game where you must solve puzzles and find your way out of challenging scenarios.
+📜 The Tank Battle Game is an action-packed game where you take control of a powerful tank and battle against opponents in a dynamic arena.
 
 ## Features
 
-- 🚪 Navigate through intricate environments.
-- 🧩 Solve puzzles and unlock clues.
-- 🌟 Test your wit and creativity to escape.
+- 🚀 Command a powerful tank in intense battles.
+- 🔫 Shoot down enemies and conquer the battlefield.
+- 🏆 Compete for high scores and achievements.
 
 ## How to Play
 
-🕹️ Use the controls to explore the surroundings, interact with objects, and solve puzzles. Your goal is to find a way to escape each scenario!
+🕹️ Use the controls to maneuver your tank, aim, and shoot at enemies. Strategize to defeat opponents and dominate the battlefield!
+
+
 
 ## Contributing
 
